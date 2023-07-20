@@ -33,9 +33,7 @@ Constraints:
 
 0 <= y<= 10
 
-Note: OrTools does not work with GLOP solver.. 
 
-Need CBC, Gurobi, Cplex
 
 #installation
 """
